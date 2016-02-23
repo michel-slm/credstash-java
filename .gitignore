@@ -4,6 +4,7 @@
 .gradle/
 
 # IDEA project files
+.idea/
 *.iml
 *.ipr
 *.iws
